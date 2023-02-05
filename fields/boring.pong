@@ -1,0 +1,5 @@
+[DATA]
+ballTexturePath        = textures/appearance-boring/ball.png
+leftPaddleTexturePath  = textures/appearance-boring/paddle.png
+rightPaddleTexturePath = textures/appearance-boring/paddle.png
+backgroundTexturePath  = textures/appearance-boring/background.png

@@ -1,0 +1,5 @@
+[DATA]
+ballTexturePath        = textures/appearance-childish/ball.png
+leftPaddleTexturePath  = textures/appearance-childish/paddle.png
+rightPaddleTexturePath = textures/appearance-childish/paddle.png
+backgroundTexturePath  = textures/appearance-childish/background.png
